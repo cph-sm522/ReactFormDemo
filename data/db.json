@@ -1,0 +1,27 @@
+{
+  "info": [
+    {
+      "id": "1",
+      "myInput": "myinput",
+      "myCheckbox": "on",
+      "myRadio": "option1"
+    },
+    {
+      "id": "b945",
+      "myInput": "hallo",
+      "myCheckbox": "on",
+      "myRadio": "option3"
+    },
+    {
+      "id": "126a",
+      "myInput": "hallojfs",
+      "myRadio": "option1"
+    },
+    {
+      "id": "ff85",
+      "myInput": "benny1",
+      "myCheckbox": "on",
+      "myRadio": "option3"
+    }
+  ]
+}
